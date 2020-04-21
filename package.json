@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Dybinetc",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.10",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}
