@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Addidas",
+        "address": "pr.Shevchenka 5"
+    },
+    {
+        "name": "Auchan",
+        "address": "Stryska.str 288"
+    },
+    {
+        "name": "Spartak",
+        "address": "Greenchenka str. 123"
+    },
+    {
+        "name": "TC Shuvar",
+        "address": "pr. Chervona kalina 341"
+    },
+    {
+        "name": "Forum",
+        "address": " Pr.Chornovola 123"
+    },
+    {
+        "name": "Victoria Gardens",
+        "address": "Naukova str.45"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "1",
+        "name": "treadmills",
+        "price": "100",
+        "amount": "3344"
+    },
+    {
+        "_id": "124",
+        "name": "sports ammunition",
+        "price": "25",
+        "amount": "234"
+    },
+    {
+        "_id": "231",
+        "name": "running shoes",
+        "price": "50",
+        "amount": "33"
+    },
+    {
+        "_id": "321",
+        "name": "bicycles",
+        "price": "160",
+        "amount": "15"
+    },
+    {
+        "_id": "12345",
+        "name": "sport pants",
+        "price": "10",
+        "amount": "5000"
+    },
+    {
+        "_id": "12233",
+        "name": "sports jackets",
+        "price": "200",
+        "amount": "1334"
+    },
+    {
+        "_id": "90123",
+        "name": "gym shoes",
+        "price": "500",
+        "amount": "3099"
+    },
+    {
+        "_id": "0123",
+        "name": "sneakers",
+        "price": "17",
+        "amount": "44"
+    },
+    {
+        "_id": "123",
+        "name": "football boots",
+        "price": "50",
+        "amount": "0"
+    }
+]
