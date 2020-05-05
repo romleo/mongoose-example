@@ -9,7 +9,7 @@ const warehouseSchema = new Schema({
     versionKey: false
 });
 
-module.exports = mongoose.model('Warehouse', warehouseSchema);
+module.exports = mongoose.model('Shop', shopSchema);
 
 
 
